@@ -15,7 +15,8 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">The need for easy language-to-language communication has increased in our increasingly interconnected world. The objective is to provide a user-friendly platform that facilitates simple translation of material and records user interactions. The task at hand is to create a scalable and effective system that can handle language translation requirements and improve user experience by using search data from recent searches.
+</p>
 <h2>Project Description</h2>
 <p align="justify">The "Smart-Speak" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
 <b>Key Features :</b>
