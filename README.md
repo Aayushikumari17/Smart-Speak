@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://translator-web.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1muxLQ1kdbYkptEbxZs5wWY1oyLOE3KNh/view?usp=drivesdk<br>
+<b>Demo Video URL :</b>https://drive.google.com/file/d/1q62_VzKROIPcmKFfNpyAF4jiGP8oEbVP/view?usp=drive_link<br>
 <b>Github Repository URL :</b>https://github.com/Aayushikumari18/Smart-Speak<br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
